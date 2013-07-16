@@ -75,6 +75,12 @@ node default {
   include ruby::1_9_3_p392
   #include ruby::2_0_0
 
+  # jank app dependencies
+
+  include redis
+  include mysql
+  include imagemagick
+
   # common, useful packages
   package {
     [

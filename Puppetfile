@@ -37,6 +37,14 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+# Project
+
+github "redis", "1.0.0"
+github "mysql", "1.0.0"
+github "imagemagick", "1.0.0"
+
+# Personal
+
 github "alfred",              "1.1.1"
 github "caffeine",            "1.0.0"
 github "chrome",              "1.1.0"
