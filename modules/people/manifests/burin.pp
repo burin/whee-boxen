@@ -3,6 +3,7 @@ class people::burin {
   include caffeine
   include chrome
   include dropbox
+  include sourcetree
 
   $home     = "/Users/${::luser}"
 
