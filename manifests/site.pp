@@ -79,7 +79,6 @@ node default {
 
   include redis
   include mysql
-  #include imagemagick
 
   # common, useful packages
   package {

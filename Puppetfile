@@ -41,7 +41,6 @@ github "xquartz",    "1.1.0"
 
 github "redis", "1.0.0"
 github "mysql", "1.0.0"
-github "imagemagick", "1.0.0"
 
 # Personal
 
